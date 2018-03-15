@@ -1,5 +1,7 @@
 # p5.js-EarthquakeDataVisualization-3D
 
+![](https://raw.githubusercontent.com/dolleebhatia/p5.js-EarthquakeDataVisualization-3D/master/p5js_3d_eq.gif)
+
 A 3D version of Dan Shiffman's Coding Challenge 57: Earthquake Data Visualization in p5.js.
 
 # References
